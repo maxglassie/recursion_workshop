@@ -15,6 +15,9 @@
          ...
          (<p n> <e n>))```
 
+*** Linear Recursive vs. Linear Iterative Processes ***
+[Linear Iterative Process for Factorial](images/linear-iterative-factorial)
+
 ***Lists - cons, car, cdr***
 
 cons - joins two items to make a pair
