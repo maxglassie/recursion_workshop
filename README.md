@@ -4,6 +4,10 @@
 - Read code
 - Learn patterns to use when solving problems
 - Recursion != scary
+- translate to your language of choice
+
+***Slides***
+- [Recursion Workshop](http://www.slideshare.net/MaxGlassie/recursion-workshop)
 
 ***Whiteboarding Process***
 - Write out the syntax
