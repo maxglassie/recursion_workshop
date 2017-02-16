@@ -12,12 +12,11 @@
 
 ```(cond (<predicate> <expression>)
          (<p> <e>)
-         
          ...
-         
          (<p n> <e n>))```
 
 ***Lists - cons, car, cdr***
+
 cons - joins two items to make a pair
 car - selects the first item of a pair
 cdr - selects the second item of a pair
