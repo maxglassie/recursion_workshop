@@ -12,12 +12,7 @@
 
 ```(cond (<predicate> <expression>)
          (<p> <e>)
-         ...
          (<p n> <e n>))```
-
-*** Linear Recursive vs. Linear Iterative Processes ***
-[Linear Iterative Process for Factorial](images/linear-iterative-factorial)
-![Alt text](/images/linear-iterative-factorial.png?raw=true "Optional Title")
 
 ***Lists - cons, car, cdr***
 
