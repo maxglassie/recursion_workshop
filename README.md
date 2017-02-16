@@ -1,5 +1,15 @@
 # recursion_workshop
 
+***Goals***
+- Read code
+- Learn patterns to use when solving problems
+- Recursion != scary
+
+***Whiteboarding Process***
+- Write out the syntax
+- Draw the data structure
+- Run the program on the whiteboard (insert an argument)
+
 ***LISP Syntax***
 
 ```(<operator> <operands>)```
