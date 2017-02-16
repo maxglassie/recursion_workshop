@@ -26,9 +26,9 @@
 
 ***Lists - cons, car, cdr***
 
-cons - joins two items to make a pair
-car - selects the first item of a pair
-cdr - selects the second item of a pair
+- cons = joins two items to make a pair
+- car = selects the first item of a pair
+- cdr = selects the second item of a pair
 
 cons can be used to form a list
 ```(cons 1 (cons 2 (cons 3 (cons 4 (cons 5 nil)))))````
