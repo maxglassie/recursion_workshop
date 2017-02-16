@@ -11,6 +11,11 @@ LISP Syntax
         (<alternative>))```
 
 ```(cond (<predicate> <expression>)
+
          (<p> <e>)
+         
          ...
+         
          (<p n> <e n>))```
+         
+***Linear Iterative Process vs. Linear Recursive Process***
