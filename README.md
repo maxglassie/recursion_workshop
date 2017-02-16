@@ -26,5 +26,5 @@ cons can be used to form a list
 is the same as 
 ```(list 1 2 3 4 5)```
 
-calling car on the above list returns `(1)
-calling cdr on the above list returns `(2 3 4 5)
+calling car on the above list returns (1)
+calling cdr on the above list returns (2 3 4 5)
