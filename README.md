@@ -36,7 +36,6 @@
 
 - cons can be used to form a list
 ```(cons 1 (cons 2 (cons 3 (cons 4 (cons 5 nil)))))````
-
 - is the same as 
 ```(list 1 2 3 4 5)```
 - calling car on the above list returns (1)
