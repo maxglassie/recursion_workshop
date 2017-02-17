@@ -14,6 +14,7 @@
 - Draw the data structure
 - Run the program on the whiteboard (insert an argument)
 
+
 ***LISP Syntax***
 
 ```(<operator> <operands>)```
@@ -35,11 +36,19 @@
 - cdr = selects the second item of a pair
 
 - cons can be used to form a list
-```(cons 1 (cons 2 (cons 3 (cons 4 (cons 5 nil)))))````
+```(cons 1 (cons 2 (cons 3 (cons 4 (cons 5 nil)))))```
 - is the same as
 ```(list 1 2 3 4 5)```
 - calling car on the above list returns (1)
 - calling cdr on the above list returns (2 3 4 5)
+
+
+***Exercises***
+Try these examples: (recommended order)
+- Factorial function
+- Fibonacci
+- Flatten method for an array or a built-in method in your language of choice
+- Linked List
 
 ***Additional Resources***
 - [Call Stack](https://www.youtube.com/watch?v=beqqGIdabrE)
