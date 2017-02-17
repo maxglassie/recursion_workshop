@@ -36,12 +36,13 @@
 
 - cons can be used to form a list
 ```(cons 1 (cons 2 (cons 3 (cons 4 (cons 5 nil)))))````
-- is the same as 
+- is the same as
 ```(list 1 2 3 4 5)```
 - calling car on the above list returns (1)
 - calling cdr on the above list returns (2 3 4 5)
 
 ***Additional Resources***
+- [Call Stack](https://www.youtube.com/watch?v=beqqGIdabrE)
 - [Dr. Racket](https://racket-lang.org/)
 - [Clojure](https://clojure.org/)
 - [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
